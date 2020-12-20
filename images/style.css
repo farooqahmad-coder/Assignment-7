@@ -1,0 +1,37 @@
+.work-div{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.work{
+    width: 250px;
+    height: 170px;
+    border-radius: 15px;
+    margin: 30px 5px 0px 5px;
+}
+#dribble{
+    margin-top: 30px;
+    border-radius: 15px;
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    padding: 3px 10px;
+}
+.testi-div{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+#client{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: 35px 0px;
+}
+.project{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(6, 6, 139);
+    color: white;
+}
+.pro-button{
+    border-radius: 15px;
+    padding: 10px 20px;
+    border: 1px solid blueviolet;
+}

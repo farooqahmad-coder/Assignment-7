@@ -1,0 +1,202 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* Navbar-css */
+#nav-div{
+    display: flex;
+    justify-content: space-between;
+}
+#logo{
+    width: 50px;
+    height: 50px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.nav-list{
+    list-style-type: none;
+    margin-right: 15px;
+    display: inline-block;
+    margin-top: 10px;
+}
+.second{
+    border: 1px solid  rgb(64, 147, 216);
+    padding: 5px 10px;
+    border-radius: 15px;
+    color: rgb(64, 147, 216);
+}
+/* Intro-Section */
+.main-div{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.first-heading{
+    margin-top: 70px;
+}
+.first-para{
+    margin-top: 15px;
+}
+#personal-pic{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-top: 70px;
+}
+.intro-div{
+    text-align: center;
+    background-color: rgb(64, 147, 216);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 200px;
+}
+.intro{
+    margin-top: 30px;
+    padding-top: 40px;
+}
+.intro-para{
+    margin-top: 30px;
+    padding-bottom: 40px;
+}
+.main-div{
+    position: relative;
+}
+.skills-div{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    left: 180px;
+    top: 300px;
+    background-color: white;
+    border-radius: 10px;
+}
+.skills{
+    border: 1px solid rgb(243, 240, 240);
+    text-align: center;
+    padding: 40px 20px;
+    border-radius: 10px;
+}
+.specs-heading{
+    padding-bottom: 20px;
+}
+.skill{
+    padding-top: 30px;
+    padding-bottom: 15px;
+    color: rgb(57, 150, 226);
+}
+span{
+    padding-bottom: 10px;
+    display: inline-block;
+}
+/* My Work css*/
+.work-div{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 600px;
+}
+.work{
+    width: 250px;
+    height: 170px;
+    border-radius: 15px;
+    margin: 30px 5px 0px 5px;
+}
+#dribble{
+    margin-top: 30px;
+    border-radius: 15px;
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    padding: 3px 10px;
+}
+.testi-div{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 470px;
+}
+#client{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: 35px 0px;
+}
+.work-img{
+    width: 200px;
+    height: 120px;
+    margin: 10px 5px 10px 5px;
+    border-radius: 10px;
+}
+.button2{
+    border-radius: 15px;
+    padding: 5px 20px;
+    border: 1px solid blueviolet;
+    height: 30px !important;
+    margin-top: 10px;
+}
+.skills2{
+    margin: 0px 5px;
+    border: 1px solid rgb(243, 240, 240);
+    text-align: center;
+    padding: 40px 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+.skills-2-div{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    left: 180px;
+    top: 300px;
+    border-radius: 10px;
+}
+.work{
+    width: 260px;
+    height: 100px;
+    border-radius: 15px;
+    margin: 20px 0px 0px 0px;
+}
+.skills-3-div{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    left: 180px;
+    top: 535px;
+    border-radius: 10px;
+}
+.client-name{
+    margin-top: 20px;
+}
+.final-main-div{
+    position: relative;
+}
+.project{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #06068b;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    height: 80px;
+    margin-left: 200px;
+    text-align: center;
+    border-radius: 15px;
+    padding-top: 40px;
+    position: relative;
+    top: 60px;
+}
+.last-div{
+    background-color:rgb(64, 147, 216) ;
+    text-align: center;
+    padding: 130px 0px 100px 0px;
+}
+.logo2{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 15px;
+}
+.con{
+    width: 30px;
+    height: 30px;
+}
+.final-ul{
+    display: inline-block;
+    margin: 40px 10px;
+}
